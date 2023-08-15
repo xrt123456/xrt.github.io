@@ -114,7 +114,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://github.com/xrt123456/xrt123456.github.io.git/xrt123456.github.io" data-id="cllc98jrz0000moat0za41nyn" data-title="Hello World" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      <a data-url="https://github.com/xrt123456/xrt123456.github.io.git/xrt123456.github.io" data-id="cllc9chxw000088at1smu2hyw" data-title="Hello World" class="article-share-link"><span class="fa fa-share">Share</span></a>
       
       
       
