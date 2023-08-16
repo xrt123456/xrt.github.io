@@ -229,6 +229,13 @@
 
 
         
+    <div class="post-nav">
+      <div class="post-nav-item"></div>
+      <div class="post-nav-item">
+    <a href="/xrt123456.github.io/xrt123456.github.io" rel="next" title="第一篇博客">
+      第一篇博客 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
       </footer>
     
   </article>
@@ -302,7 +309,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/xrt123456.github.io/archives/">
         
-          <span class="site-state-item-count">1</span>
+          <span class="site-state-item-count">2</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
